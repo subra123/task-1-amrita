@@ -1,5 +1,5 @@
 # task-1-amrita
-# how i see yourself in another 5-10 Yrs
+# how i see myself in another 5-10 Yrs
 '''
 As a cyber security student, I see myself 
 continuously learning and staying up-to-date 
